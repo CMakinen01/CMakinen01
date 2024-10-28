@@ -9,3 +9,6 @@
 - I’m currently learning Ruby, GatsbyJS, EmberJS, and PostgreSQL
 - I am proficient with using Java, C++, C#, SQL, and JavaScript
 
+  
+- Please look forward to seeing more of my work soon!
+
